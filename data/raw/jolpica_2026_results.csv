@@ -1,0 +1,101 @@
+season,round,race_name,driver_code,driver_id,driver_name,team_name,grid_position,finish_position,classified_position,points,status,laps
+2026,1,Australian Grand Prix,RUS,russell,George Russell,Mercedes,1,,1,25.0,Finished,58
+2026,1,Australian Grand Prix,ANT,antonelli,Andrea Kimi Antonelli,Mercedes,2,,2,18.0,Finished,58
+2026,1,Australian Grand Prix,LEC,leclerc,Charles Leclerc,Ferrari,4,,3,15.0,Finished,58
+2026,1,Australian Grand Prix,HAM,hamilton,Lewis Hamilton,Ferrari,7,,4,12.0,Finished,58
+2026,1,Australian Grand Prix,NOR,norris,Lando Norris,McLaren,6,,5,10.0,Finished,58
+2026,1,Australian Grand Prix,VER,max_verstappen,Max Verstappen,Red Bull,20,,6,8.0,Finished,58
+2026,1,Australian Grand Prix,BEA,bearman,Oliver Bearman,Haas F1 Team,12,,7,6.0,Lapped,57
+2026,1,Australian Grand Prix,LIN,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,,8,4.0,Lapped,57
+2026,1,Australian Grand Prix,BOR,bortoleto,Gabriel Bortoleto,Audi,10,,9,2.0,Lapped,57
+2026,1,Australian Grand Prix,GAS,gasly,Pierre Gasly,Alpine F1 Team,14,,10,1.0,Lapped,57
+2026,1,Australian Grand Prix,OCO,ocon,Esteban Ocon,Haas F1 Team,13,,11,0.0,Lapped,57
+2026,1,Australian Grand Prix,ALB,albon,Alexander Albon,Williams,15,,12,0.0,Lapped,57
+2026,1,Australian Grand Prix,LAW,lawson,Liam Lawson,RB F1 Team,8,,13,0.0,Lapped,57
+2026,1,Australian Grand Prix,COL,colapinto,Franco Colapinto,Alpine F1 Team,16,,14,0.0,Lapped,56
+2026,1,Australian Grand Prix,SAI,sainz,Carlos Sainz,Williams,21,,15,0.0,Lapped,56
+2026,1,Australian Grand Prix,PER,perez,Sergio Pérez,Cadillac F1 Team,18,,16,0.0,Lapped,55
+2026,1,Australian Grand Prix,STR,stroll,Lance Stroll,Aston Martin,22,,17,0.0,Lapped,43
+2026,1,Australian Grand Prix,ALO,alonso,Fernando Alonso,Aston Martin,17,,18,0.0,Retired,21
+2026,1,Australian Grand Prix,BOT,bottas,Valtteri Bottas,Cadillac F1 Team,19,,19,0.0,Retired,15
+2026,1,Australian Grand Prix,HAD,hadjar,Isack Hadjar,Red Bull,3,,20,0.0,Retired,10
+2026,1,Australian Grand Prix,PIA,piastri,Oscar Piastri,McLaren,5,,21,0.0,Did not start,0
+2026,1,Australian Grand Prix,HUL,hulkenberg,Nico Hülkenberg,Audi,11,,22,0.0,Did not start,0
+2026,2,Chinese Grand Prix,ANT,antonelli,Andrea Kimi Antonelli,Mercedes,1,,1,25.0,Finished,56
+2026,2,Chinese Grand Prix,RUS,russell,George Russell,Mercedes,2,,2,18.0,Finished,56
+2026,2,Chinese Grand Prix,HAM,hamilton,Lewis Hamilton,Ferrari,3,,3,15.0,Finished,56
+2026,2,Chinese Grand Prix,LEC,leclerc,Charles Leclerc,Ferrari,4,,4,12.0,Finished,56
+2026,2,Chinese Grand Prix,BEA,bearman,Oliver Bearman,Haas F1 Team,10,,5,10.0,Finished,56
+2026,2,Chinese Grand Prix,GAS,gasly,Pierre Gasly,Alpine F1 Team,7,,6,8.0,Finished,56
+2026,2,Chinese Grand Prix,LAW,lawson,Liam Lawson,RB F1 Team,14,,7,6.0,Finished,56
+2026,2,Chinese Grand Prix,HAD,hadjar,Isack Hadjar,Red Bull,9,,8,4.0,Finished,56
+2026,2,Chinese Grand Prix,SAI,sainz,Carlos Sainz,Williams,17,,9,2.0,Lapped,55
+2026,2,Chinese Grand Prix,COL,colapinto,Franco Colapinto,Alpine F1 Team,12,,10,1.0,Lapped,55
+2026,2,Chinese Grand Prix,HUL,hulkenberg,Nico Hülkenberg,Audi,11,,11,0.0,Lapped,55
+2026,2,Chinese Grand Prix,LIN,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,,12,0.0,Lapped,55
+2026,2,Chinese Grand Prix,BOT,bottas,Valtteri Bottas,Cadillac F1 Team,19,,13,0.0,Lapped,55
+2026,2,Chinese Grand Prix,OCO,ocon,Esteban Ocon,Haas F1 Team,13,,14,0.0,Lapped,55
+2026,2,Chinese Grand Prix,PER,perez,Sergio Pérez,Cadillac F1 Team,21,,15,0.0,Lapped,55
+2026,2,Chinese Grand Prix,VER,max_verstappen,Max Verstappen,Red Bull,8,,16,0.0,Retired,45
+2026,2,Chinese Grand Prix,ALO,alonso,Fernando Alonso,Aston Martin,18,,17,0.0,Retired,32
+2026,2,Chinese Grand Prix,STR,stroll,Lance Stroll,Aston Martin,20,,18,0.0,Retired,9
+2026,2,Chinese Grand Prix,PIA,piastri,Oscar Piastri,McLaren,5,,19,0.0,Did not start,0
+2026,2,Chinese Grand Prix,NOR,norris,Lando Norris,McLaren,6,,20,0.0,Did not start,0
+2026,2,Chinese Grand Prix,BOR,bortoleto,Gabriel Bortoleto,Audi,16,,21,0.0,Did not start,0
+2026,2,Chinese Grand Prix,ALB,albon,Alexander Albon,Williams,22,,22,0.0,Did not start,0
+2026,3,Japanese Grand Prix,ANT,antonelli,Andrea Kimi Antonelli,Mercedes,1,,1,25.0,Finished,53
+2026,3,Japanese Grand Prix,PIA,piastri,Oscar Piastri,McLaren,3,,2,18.0,Finished,53
+2026,3,Japanese Grand Prix,LEC,leclerc,Charles Leclerc,Ferrari,4,,3,15.0,Finished,53
+2026,3,Japanese Grand Prix,RUS,russell,George Russell,Mercedes,2,,4,12.0,Finished,53
+2026,3,Japanese Grand Prix,NOR,norris,Lando Norris,McLaren,5,,5,10.0,Finished,53
+2026,3,Japanese Grand Prix,HAM,hamilton,Lewis Hamilton,Ferrari,6,,6,8.0,Finished,53
+2026,3,Japanese Grand Prix,GAS,gasly,Pierre Gasly,Alpine F1 Team,7,,7,6.0,Finished,53
+2026,3,Japanese Grand Prix,VER,max_verstappen,Max Verstappen,Red Bull,11,,8,4.0,Finished,53
+2026,3,Japanese Grand Prix,LAW,lawson,Liam Lawson,RB F1 Team,14,,9,2.0,Finished,53
+2026,3,Japanese Grand Prix,OCO,ocon,Esteban Ocon,Haas F1 Team,12,,10,1.0,Finished,53
+2026,3,Japanese Grand Prix,HUL,hulkenberg,Nico Hülkenberg,Audi,13,,11,0.0,Finished,53
+2026,3,Japanese Grand Prix,HAD,hadjar,Isack Hadjar,Red Bull,8,,12,0.0,Finished,53
+2026,3,Japanese Grand Prix,BOR,bortoleto,Gabriel Bortoleto,Audi,9,,13,0.0,Finished,53
+2026,3,Japanese Grand Prix,LIN,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,,14,0.0,Finished,53
+2026,3,Japanese Grand Prix,SAI,sainz,Carlos Sainz,Williams,16,,15,0.0,Finished,53
+2026,3,Japanese Grand Prix,COL,colapinto,Franco Colapinto,Alpine F1 Team,15,,16,0.0,Finished,53
+2026,3,Japanese Grand Prix,PER,perez,Sergio Pérez,Cadillac F1 Team,19,,17,0.0,Finished,53
+2026,3,Japanese Grand Prix,ALO,alonso,Fernando Alonso,Aston Martin,21,,18,0.0,Lapped,52
+2026,3,Japanese Grand Prix,BOT,bottas,Valtteri Bottas,Cadillac F1 Team,20,,19,0.0,Lapped,52
+2026,3,Japanese Grand Prix,ALB,albon,Alexander Albon,Williams,17,,20,0.0,Lapped,51
+2026,3,Japanese Grand Prix,STR,stroll,Lance Stroll,Aston Martin,22,,21,0.0,Retired,30
+2026,3,Japanese Grand Prix,BEA,bearman,Oliver Bearman,Haas F1 Team,18,,22,0.0,Retired,20
+2026,4,Miami Grand Prix,ANT,antonelli,Andrea Kimi Antonelli,Mercedes,1,,1,25.0,Finished,57
+2026,4,Miami Grand Prix,NOR,norris,Lando Norris,McLaren,4,,2,18.0,Finished,57
+2026,4,Miami Grand Prix,PIA,piastri,Oscar Piastri,McLaren,7,,3,15.0,Finished,57
+2026,4,Miami Grand Prix,RUS,russell,George Russell,Mercedes,5,,4,12.0,Finished,57
+2026,4,Miami Grand Prix,VER,max_verstappen,Max Verstappen,Red Bull,2,,5,10.0,Finished,57
+2026,4,Miami Grand Prix,HAM,hamilton,Lewis Hamilton,Ferrari,6,,6,8.0,Finished,57
+2026,4,Miami Grand Prix,COL,colapinto,Franco Colapinto,Alpine F1 Team,8,,7,6.0,Finished,57
+2026,4,Miami Grand Prix,LEC,leclerc,Charles Leclerc,Ferrari,3,,8,4.0,Finished,57
+2026,4,Miami Grand Prix,SAI,sainz,Carlos Sainz,Williams,13,,9,2.0,Finished,57
+2026,4,Miami Grand Prix,ALB,albon,Alexander Albon,Williams,15,,10,1.0,Finished,57
+2026,4,Miami Grand Prix,BEA,bearman,Oliver Bearman,Haas F1 Team,12,,11,0.0,Lapped,56
+2026,4,Miami Grand Prix,BOR,bortoleto,Gabriel Bortoleto,Audi,21,,12,0.0,Lapped,56
+2026,4,Miami Grand Prix,OCO,ocon,Esteban Ocon,Haas F1 Team,14,,13,0.0,Lapped,56
+2026,4,Miami Grand Prix,LIN,arvid_lindblad,Arvid Lindblad,RB F1 Team,16,,14,0.0,Lapped,56
+2026,4,Miami Grand Prix,ALO,alonso,Fernando Alonso,Aston Martin,17,,15,0.0,Lapped,56
+2026,4,Miami Grand Prix,PER,perez,Sergio Pérez,Cadillac F1 Team,20,,16,0.0,Lapped,56
+2026,4,Miami Grand Prix,STR,stroll,Lance Stroll,Aston Martin,18,,17,0.0,Lapped,56
+2026,4,Miami Grand Prix,BOT,bottas,Valtteri Bottas,Cadillac F1 Team,19,,18,0.0,Lapped,55
+2026,4,Miami Grand Prix,HUL,hulkenberg,Nico Hülkenberg,Audi,10,,19,0.0,Retired,7
+2026,4,Miami Grand Prix,LAW,lawson,Liam Lawson,RB F1 Team,11,,20,0.0,Retired,6
+2026,4,Miami Grand Prix,GAS,gasly,Pierre Gasly,Alpine F1 Team,9,,21,0.0,Retired,4
+2026,4,Miami Grand Prix,HAD,hadjar,Isack Hadjar,Red Bull,22,,22,0.0,Retired,4
+2026,5,Canadian Grand Prix,ANT,antonelli,Andrea Kimi Antonelli,Mercedes,2,,1,25.0,Finished,68
+2026,5,Canadian Grand Prix,HAM,hamilton,Lewis Hamilton,Ferrari,5,,2,18.0,Finished,68
+2026,5,Canadian Grand Prix,VER,max_verstappen,Max Verstappen,Red Bull,6,,3,15.0,Finished,68
+2026,5,Canadian Grand Prix,LEC,leclerc,Charles Leclerc,Ferrari,8,,4,12.0,Finished,68
+2026,5,Canadian Grand Prix,HAD,hadjar,Isack Hadjar,Red Bull,7,,5,10.0,Lapped,67
+2026,5,Canadian Grand Prix,COL,colapinto,Franco Colapinto,Alpine F1 Team,10,,6,8.0,Lapped,67
+2026,5,Canadian Grand Prix,LAW,lawson,Liam Lawson,RB F1 Team,12,,7,6.0,Lapped,67
+2026,5,Canadian Grand Prix,GAS,gasly,Pierre Gasly,Alpine F1 Team,14,,8,4.0,Lapped,67
+2026,5,Canadian Grand Prix,SAI,sainz,Carlos Sainz,Williams,15,,9,2.0,Lapped,67
+2026,5,Canadian Grand Prix,BEA,bearman,Oliver Bearman,Haas F1 Team,16,,10,1.0,Lapped,67
+2026,5,Canadian Grand Prix,PIA,piastri,Oscar Piastri,McLaren,4,,11,0.0,Lapped,66
+2026,5,Canadian Grand Prix,HUL,hulkenberg,Nico Hülkenberg,Audi,11,,12,0.0,Lapped,66

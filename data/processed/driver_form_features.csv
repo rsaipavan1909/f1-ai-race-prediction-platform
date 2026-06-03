@@ -1,0 +1,23 @@
+driver_code,driver_name,team_name,race_count,prev_3_avg_points,prev_3_avg_finish,podium_rate,avg_grid_position
+ALB,Alexander Albon,Williams,4,0.3333333333333333,17.333333333333332,0.0,17.25
+ALO,Fernando Alonso,Aston Martin,4,0.0,16.666666666666668,0.0,18.25
+ANT,Andrea Kimi Antonelli,Mercedes,5,25.0,1.0,1.0,1.4
+BEA,Oliver Bearman,Haas F1 Team,5,0.3333333333333333,14.333333333333334,0.0,13.6
+BOR,Gabriel Bortoleto,Audi,4,0.0,15.333333333333334,0.0,14.0
+BOT,Valtteri Bottas,Cadillac F1 Team,4,0.0,16.666666666666668,0.0,19.25
+COL,Franco Colapinto,Alpine F1 Team,5,4.666666666666667,9.666666666666666,0.0,12.2
+GAS,Pierre Gasly,Alpine F1 Team,5,3.3333333333333335,12.0,0.0,10.2
+HAD,Isack Hadjar,Red Bull,5,3.3333333333333335,13.0,0.0,9.8
+HAM,Lewis Hamilton,Ferrari,5,11.333333333333334,4.666666666666667,0.4,5.4
+HUL,Nico Hülkenberg,Audi,5,0.0,14.0,0.0,11.2
+LAW,Liam Lawson,RB F1 Team,5,2.6666666666666665,12.0,0.0,11.8
+LEC,Charles Leclerc,Ferrari,5,10.333333333333334,5.0,0.4,4.6
+LIN,Arvid Lindblad,RB F1 Team,4,0.0,13.333333333333334,0.0,12.5
+NOR,Lando Norris,McLaren,4,9.333333333333334,9.0,0.25,5.25
+OCO,Esteban Ocon,Haas F1 Team,4,0.3333333333333333,12.333333333333334,0.0,13.0
+PER,Sergio Pérez,Cadillac F1 Team,4,0.0,16.0,0.0,19.5
+PIA,Oscar Piastri,McLaren,5,11.0,5.333333333333333,0.4,4.8
+RUS,George Russell,Mercedes,4,14.0,3.3333333333333335,0.5,2.5
+SAI,Carlos Sainz,Williams,5,1.3333333333333333,11.0,0.0,16.4
+STR,Lance Stroll,Aston Martin,4,0.0,18.666666666666668,0.0,20.5
+VER,Max Verstappen,Red Bull,5,9.666666666666666,5.333333333333333,0.2,9.4

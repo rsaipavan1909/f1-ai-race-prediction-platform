@@ -1,0 +1,89 @@
+predicted_position,driver_code,driver_name,team_name,feature,contribution
+1,RUS,George Russell,Mercedes,Recent points,0.14
+2,ANT,Andrea Kimi Antonelli,Mercedes,Recent points,0.25
+3,LEC,Charles Leclerc,Ferrari,Recent points,0.10333333333333333
+4,VER,Max Verstappen,Red Bull,Recent points,0.09666666666666666
+5,PIA,Oscar Piastri,McLaren,Recent points,0.11
+6,HAM,Lewis Hamilton,Ferrari,Recent points,0.11333333333333334
+7,NOR,Lando Norris,McLaren,Recent points,0.09333333333333334
+8,SAI,Carlos Sainz,Williams,Recent points,0.013333333333333332
+9,GAS,Pierre Gasly,Alpine F1 Team,Recent points,0.03333333333333333
+10,ALO,Fernando Alonso,Aston Martin,Recent points,0.0
+11,LAW,Liam Lawson,RB F1 Team,Recent points,0.026666666666666665
+12,PER,Sergio Pérez,Cadillac F1 Team,Recent points,0.0
+13,COL,Franco Colapinto,Alpine F1 Team,Recent points,0.04666666666666667
+14,OCO,Esteban Ocon,Haas F1 Team,Recent points,0.003333333333333333
+15,ALB,Alexander Albon,Williams,Recent points,0.003333333333333333
+16,HUL,Nico Hülkenberg,Audi,Recent points,0.0
+17,STR,Lance Stroll,Aston Martin,Recent points,0.0
+18,BOT,Valtteri Bottas,Cadillac F1 Team,Recent points,0.0
+19,BEA,Oliver Bearman,Haas F1 Team,Recent points,0.003333333333333333
+20,HAD,Isack Hadjar,Red Bull,Recent points,0.03333333333333333
+21,BOR,Gabriel Bortoleto,Audi,Recent points,0.0
+22,LIN,Arvid Lindblad,RB F1 Team,Recent points,0.0
+1,RUS,George Russell,Mercedes,Average finish,0.17358490566037738
+2,ANT,Andrea Kimi Antonelli,Mercedes,Average finish,0.2
+3,LEC,Charles Leclerc,Ferrari,Average finish,0.1547169811320755
+4,VER,Max Verstappen,Red Bull,Average finish,0.15094339622641512
+5,PIA,Oscar Piastri,McLaren,Average finish,0.15094339622641512
+6,HAM,Lewis Hamilton,Ferrari,Average finish,0.15849056603773587
+7,NOR,Lando Norris,McLaren,Average finish,0.10943396226415097
+8,SAI,Carlos Sainz,Williams,Average finish,0.08679245283018869
+9,GAS,Pierre Gasly,Alpine F1 Team,Average finish,0.07547169811320756
+10,ALO,Fernando Alonso,Aston Martin,Average finish,0.02264150943396226
+11,LAW,Liam Lawson,RB F1 Team,Average finish,0.07547169811320756
+12,PER,Sergio Pérez,Cadillac F1 Team,Average finish,0.030188679245283036
+13,COL,Franco Colapinto,Alpine F1 Team,Average finish,0.10188679245283022
+14,OCO,Esteban Ocon,Haas F1 Team,Average finish,0.07169811320754718
+15,ALB,Alexander Albon,Williams,Average finish,0.015094339622641529
+16,HUL,Nico Hülkenberg,Audi,Average finish,0.0528301886792453
+17,STR,Lance Stroll,Aston Martin,Average finish,0.0
+18,BOT,Valtteri Bottas,Cadillac F1 Team,Average finish,0.02264150943396226
+19,BEA,Oliver Bearman,Haas F1 Team,Average finish,0.04905660377358492
+20,HAD,Isack Hadjar,Red Bull,Average finish,0.06415094339622643
+21,BOR,Gabriel Bortoleto,Audi,Average finish,0.03773584905660379
+22,LIN,Arvid Lindblad,RB F1 Team,Average finish,0.06037735849056605
+1,RUS,George Russell,Mercedes,Podium rate,0.1
+2,ANT,Andrea Kimi Antonelli,Mercedes,Podium rate,0.2
+3,LEC,Charles Leclerc,Ferrari,Podium rate,0.08000000000000002
+4,VER,Max Verstappen,Red Bull,Podium rate,0.04000000000000001
+5,PIA,Oscar Piastri,McLaren,Podium rate,0.08000000000000002
+6,HAM,Lewis Hamilton,Ferrari,Podium rate,0.08000000000000002
+7,NOR,Lando Norris,McLaren,Podium rate,0.05
+8,SAI,Carlos Sainz,Williams,Podium rate,0.0
+9,GAS,Pierre Gasly,Alpine F1 Team,Podium rate,0.0
+10,ALO,Fernando Alonso,Aston Martin,Podium rate,0.0
+11,LAW,Liam Lawson,RB F1 Team,Podium rate,0.0
+12,PER,Sergio Pérez,Cadillac F1 Team,Podium rate,0.0
+13,COL,Franco Colapinto,Alpine F1 Team,Podium rate,0.0
+14,OCO,Esteban Ocon,Haas F1 Team,Podium rate,0.0
+15,ALB,Alexander Albon,Williams,Podium rate,0.0
+16,HUL,Nico Hülkenberg,Audi,Podium rate,0.0
+17,STR,Lance Stroll,Aston Martin,Podium rate,0.0
+18,BOT,Valtteri Bottas,Cadillac F1 Team,Podium rate,0.0
+19,BEA,Oliver Bearman,Haas F1 Team,Podium rate,0.0
+20,HAD,Isack Hadjar,Red Bull,Podium rate,0.0
+21,BOR,Gabriel Bortoleto,Audi,Podium rate,0.0
+22,LIN,Arvid Lindblad,RB F1 Team,Podium rate,0.0
+1,RUS,George Russell,Mercedes,Grid position,0.31666666666666665
+2,ANT,Andrea Kimi Antonelli,Mercedes,Grid position,0.05000000000000002
+3,LEC,Charles Leclerc,Ferrari,Grid position,0.3333333333333333
+4,VER,Max Verstappen,Red Bull,Grid position,0.35
+5,PIA,Oscar Piastri,McLaren,Grid position,0.2833333333333333
+6,HAM,Lewis Hamilton,Ferrari,Grid position,0.2666666666666666
+7,NOR,Lando Norris,McLaren,Grid position,0.3
+8,SAI,Carlos Sainz,Williams,Grid position,0.25
+9,GAS,Pierre Gasly,Alpine F1 Team,Grid position,0.19999999999999998
+10,ALO,Fernando Alonso,Aston Martin,Grid position,0.23333333333333334
+11,LAW,Liam Lawson,RB F1 Team,Grid position,0.15
+12,PER,Sergio Pérez,Cadillac F1 Team,Grid position,0.21666666666666667
+13,COL,Franco Colapinto,Alpine F1 Team,Grid position,0.08333333333333334
+14,OCO,Esteban Ocon,Haas F1 Team,Grid position,0.1333333333333333
+15,ALB,Alexander Albon,Williams,Grid position,0.18333333333333332
+16,HUL,Nico Hülkenberg,Audi,Grid position,0.11666666666666667
+17,STR,Lance Stroll,Aston Martin,Grid position,0.16666666666666666
+18,BOT,Valtteri Bottas,Cadillac F1 Team,Grid position,0.09999999999999999
+19,BEA,Oliver Bearman,Haas F1 Team,Grid position,0.06666666666666665
+20,HAD,Isack Hadjar,Red Bull,Grid position,0.016666666666666684
+21,BOR,Gabriel Bortoleto,Audi,Grid position,0.033333333333333326
+22,LIN,Arvid Lindblad,RB F1 Team,Grid position,0.0

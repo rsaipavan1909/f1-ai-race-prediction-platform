@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+models/*.pkl
+
+# Tableau
+*.twb~
+*.twbx~
+
+# Logs
+*.log
