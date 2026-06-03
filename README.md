@@ -1,7 +1,3 @@
-Here's a polished **README.md** you can directly use for GitHub.
-
----
-
 # 🏎 Formula 1 AI Race Prediction & Driver Form Analytics Platform
 
 ## Overview
@@ -270,8 +266,6 @@ python src/predict_monaco.py
 📊 Tableau Public Profile:
 
 [Sai Pavan Rambhatla Tableau Public Profile](https://public.tableau.com/app/profile/sai.pavan.rambhatla?utm_source=chatgpt.com)
-
----
 
 ## License
 
